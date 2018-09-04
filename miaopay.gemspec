@@ -4,10 +4,9 @@ Gem::Specification.new do |s|
   s.date = '2018-08-28'
   s.summary = "miao pay!"
   s.description = "miao payment"
-  s.authors = ["lap"]
-  s.email = ''
+  s.authors = ["laplaceliu"]
+  s.email = 'laplaceliu@outlook.com'
   s.files = ["lib/miaopay.rb"]
-  s.homepage =
-      'http://rubygems.org/gems/miaopay'
-  s.license = 'Apache License 2.0'
+  s.homepage = 'http://rubygems.org/gems/miaopay'
+  s.license = 'Apache-2.0'
 end
